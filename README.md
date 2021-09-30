@@ -1,1 +1,1 @@
-# simon
+# simon game in java script
